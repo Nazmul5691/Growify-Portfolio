@@ -2,7 +2,7 @@
 
 # some project features for this projects
 
-## Donation Projects
+
 
 ## 1. Customized Wedding Planning: 
 Tailor your wedding to match your unique style and preferences. 
