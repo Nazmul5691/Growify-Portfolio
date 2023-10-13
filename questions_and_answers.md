@@ -20,7 +20,7 @@ console.log(greetign);
 
 #### Answer: ?
 
-<i>The output is an empty object because this assigned an empty object {} to the variable greeting, and then  logged the value of greeting, which is the empty object itself.</i>
+<i> output is an empty object because this assigned an empty object {} to the variable greeting, and then  logged the value of greeting, which is the empty object itself.</i>
 
 </p>
 </details>
@@ -45,7 +45,7 @@ sum(1, "2");
 
 #### Answer: ?
 
-<i>The output is "12" because JavaScript performs type coercion when adding a number and a string, converting the number 1 to a string and then concatenating it with the string "2".</i>
+<i>output is "12" because JavaScript performs type coercion when adding a number and a string, converting the number 1 to a string and then concatenating it with the string "2".</i>
 
 </p>
 </details>
@@ -71,7 +71,7 @@ console.log(food);
 
 #### Answer: ?
 
-<i>because the info.favoriteFood assignment changes the value of the favoriteFood property in the info object to "🍝," but it does not modify the original food array.</i>
+<i>the info.favoriteFood assignment changes the value of the favoriteFood property in the info object to "🍝," but it does not modify the original food array.</i>
 
 </p>
 </details>
